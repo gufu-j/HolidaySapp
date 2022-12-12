@@ -1,0 +1,70 @@
+body{
+    background-color: rgba(16, 57, 91, 0.941);
+}
+
+h1{
+
+    color: rgb(211, 225, 141);
+    text-align: center;
+    font-family: fantasy;
+    letter-spacing: .1rem;
+    text-shadow: -1px 0 black, 0 10px black, 1px 0 black, 0 -1px black;
+
+  }
+ 
+  p{
+    color: rgb(58, 130, 131);
+    font-family: fantasy;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: .1rem;
+    text-shadow: -1px 0 black, 0 2px black, 1px 0 black, 0 -1px black;
+    word-wrap: break-word
+  } 
+
+  form{
+    text-align: center;
+  }
+
+  li {
+    box-decoration-break: slice;
+    font: 1rem 'Fira Sans', sans-serif;
+    margin-bottom: .5rem;
+    list-style: none;
+    font-family: fantasy;
+    text-align: center;
+  } 
+  
+  li::first-letter{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgb(228, 70, 70);
+
+  }
+
+  ul li li {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    font-weight: bold;
+    color: rgb(30, 117, 151);
+    letter-spacing: .1rem;
+
+  }
+
+  
+  ul li li::first-letter{
+    font-weight: normal;
+    font-size: 1.5rem;
+    color: rgb(70, 228, 215);
+
+  }
+
+ .date{
+
+      color: rgb(60, 208, 41);
+      font-family: fantasy;
+ }
+
+button {
+  margin-left: 20px;
+}
