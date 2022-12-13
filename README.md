@@ -22,6 +22,7 @@ HolidaySearchApp in a very nice application that may be usuful in case you wish 
 ### Clicking a Holiday in specific.
 
 <li> Say you click on Columbus Day or Veterans Day, the date it is celebrated shoud show up or the counties where people celebreate it, or both. </li>
+
 ![image](https://user-images.githubusercontent.com/112182396/207223281-66f80364-95b2-42b6-9961-c0f69187e201.png)
 
 ### Introducing another year.
