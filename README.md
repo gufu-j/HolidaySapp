@@ -19,6 +19,15 @@ HolidaySearchApp in a very nice application that may be usuful in case you wish 
 
 ![image](https://user-images.githubusercontent.com/112182396/207222306-91a5a9cb-ade0-4159-9ffe-6bccca99790b.png)
 
+### Clicking a Holiday in specific.
+
+<li> Say you click on Columbus Day or Veterans Day, the date it is celebrated shoud show up or the counties where people celebreate it, or both. </li>
+![image](https://user-images.githubusercontent.com/112182396/207223281-66f80364-95b2-42b6-9961-c0f69187e201.png)
+
+### Introducing another year.
+<li> Introducing another year requires you to delete all holidays to start all over again, otherwise your list will expand! </li>
+
+
 
 
 
