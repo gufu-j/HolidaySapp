@@ -10,7 +10,8 @@ HolidaySearchApp in a very nice application that may be usuful in case you wish 
 
 <li> Let's go ahead and type year 2001 for example. You may be able that 13 holidays will be displayed </li>
 
-<div style= "text-align:center"><img src="https://user-images.githubusercontent.com/112182396/207220879-d2c34eb6-afe8-4bf4-84a9-e8bd55f3a7d3.png)"
+<div style= "text-align:center"><img src= ![image](https://user-images.githubusercontent.com/112182396/207221801-4ab19903-c027-4a8d-a5d2-a9333e51ece7.png)
+
 />
 </div>
 
