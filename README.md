@@ -31,6 +31,9 @@ HolidaySearchApp in a very nice application that may be usuful in case you wish 
 
 #### API
 
+In order to build HolidaySearchApp, it was important to use the Nager.Date API. We would like to thank nager.date for colleting such great data and Ana Kravitiz for including this API into her article used to intially start this app "Big List of Free and Open Public APIs (No Auth Needed) ".
+
+
 
 
 
