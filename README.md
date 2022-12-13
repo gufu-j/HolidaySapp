@@ -12,6 +12,10 @@ HolidaySearchApp in a very nice application that may be usuful in case you wish 
 
 ![image](https://user-images.githubusercontent.com/112182396/207221870-51c37881-6dec-4aa8-8880-4af1dacd20cd.png)
 
+### Delete Holidays
+
+<li> If you are not interested about a holiday, you may click on the delete button next to it and it will vanish! </li>
+
 
 
 
