@@ -7,7 +7,6 @@ document.addEventListener("DOMContentLoaded", ()=> {
 
     document.getElementById("year").value = "";
     }) 
-
     function handleForm(textTyped){
 
         fetch(`https://date.nager.at/api/v2/publicholidays/${textTyped}/US`)
@@ -20,7 +19,6 @@ document.addEventListener("DOMContentLoaded", ()=> {
         bigArray.forEach(makeList);
 
         });
-
     }
 
     // callBack
@@ -63,7 +61,6 @@ document.addEventListener("DOMContentLoaded", ()=> {
         console.log(e);
         li.remove()
         } )
- 
     }
 
     //callbacks for mousOver 
@@ -75,6 +72,4 @@ document.addEventListener("DOMContentLoaded", ()=> {
         document.getElementById("list").style.color = "yellow";
        // console.log("I am out")
       }
-    
-   
  });
