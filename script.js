@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", ()=> {
          return response.json();
          })
         .then(function(bigArray){
-            console.log(bigArray);
+            //console.log(bigArray);
 
         bigArray.forEach(makeList);
 
@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", ()=> {
         li.appendChild(btn)
 
         btn.addEventListener("click", (e)=>{
-        console.log(e);
+        //console.log(e);
         li.remove()
         } )
     }
