@@ -15,6 +15,11 @@ HolidaySearchApp in a very nice application that may be usuful in case you wish 
 ### Delete Holidays
 
 <li> If you are not interested about a holiday, you may click on the "delete" button next to it and it will vanish! </li>
+<li> If we delete some of them, it may look as the picture below </li>
+
+![image](https://user-images.githubusercontent.com/112182396/207222306-91a5a9cb-ade0-4159-9ffe-6bccca99790b.png)
+
+
 
 
 
