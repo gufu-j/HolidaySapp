@@ -8,7 +8,7 @@ HolidaySearchApp in a very nice application that may be usuful in case you wish 
 ![image](https://user-images.githubusercontent.com/112182396/207226497-2b5e6042-c1ee-4d61-b972-f1938a23f4f6.png)
 
 
-<li> Let's go ahead and type year 2001 for example. You may be able that 13 holidays will be displayed </li>
+<li> Let's go ahead and type year 2001 for example. You may be able to see that 13 holidays will be displayed </li>
 
 ![image](https://user-images.githubusercontent.com/112182396/207221870-51c37881-6dec-4aa8-8880-4af1dacd20cd.png)
 
